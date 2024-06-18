@@ -1,0 +1,12 @@
+/* App.css */
+.app-header {
+  padding-left: 5%;
+  background: white;
+  box-shadow: 2px 4px 9px 2px #80808024;
+}
+
+
+body{
+  background: #eee;
+  min-height: 100vh;
+}

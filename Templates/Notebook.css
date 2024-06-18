@@ -1,0 +1,20 @@
+.cells{
+    padding: 10px;
+    margin: 20px auto;
+    background: white;
+    width:75%;
+    box-shadow: 2px 4px 9px 2px grey;
+    box-sizing: border-box;
+}
+
+.btn-wrapper{
+    background: white;
+    box-shadow: 2px 4px 9px 2px grey;
+    height: 2em;
+}
+
+.btn{
+    background: none;
+    border: white;
+    margin-left: 6%;
+}
